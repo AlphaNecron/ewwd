@@ -1,0 +1,14 @@
+github.com/Wifx/gonetworkmanager v0.5.0 h1:P209z0yj705bl5tmyHTlpXPSv3QzjPtIM4X0SyDAqWA=
+github.com/Wifx/gonetworkmanager v0.5.0/go.mod h1:EdhHf2O00IZXfMv9LC6CS6SgTwcMTg/ZSDhGvch0cs8=
+github.com/fhs/gompd/v2 v2.3.0 h1:wuruUjmOODRlJhrYx73rJnzS7vTSXSU7pWmZtM3VPE0=
+github.com/fhs/gompd/v2 v2.3.0/go.mod h1:nNdZtcpD5VpmzZbRl5rV6RhxeMmAWTxEsSIMBkmMIy4=
+github.com/godbus/dbus/v5 v5.0.2 h1:QtWdZQyXTEn7S0LXv9nVxPUiT37d1i7UntpRTiKM86E=
+github.com/godbus/dbus/v5 v5.0.2/go.mod h1:xhWf0FNVPg57R7Z0UbKHbJfkEywrmjJnf7w5xrFpKfA=
+github.com/godbus/dbus/v5 v5.0.3 h1:ZqHaoEF7TBzh4jzPmqVhE/5A1z9of6orkAe5uHoAeME=
+github.com/godbus/dbus/v5 v5.0.3/go.mod h1:xhWf0FNVPg57R7Z0UbKHbJfkEywrmjJnf7w5xrFpKfA=
+github.com/nlepage/go-netmgr v0.0.0-20210302111027-f6f69dc9cf38 h1:5BJ/gmwdbrwZlT4q8R4GwfaPhMP0UNBcjc0QM1+2jFY=
+github.com/nlepage/go-netmgr v0.0.0-20210302111027-f6f69dc9cf38/go.mod h1:e7YtVTJnlwKNLx6du72orCVAez0vVhI6dsDkAlr7Qzw=
+github.com/the-jonsey/pulseaudio v0.0.1 h1:E1cuhWGGfJJ7ds5JVciby/t4ofC6lyUjMIH7mKfQoxw=
+github.com/the-jonsey/pulseaudio v0.0.1/go.mod h1:vvRrWQB86WzgsUafGkEPXCHoYgdze2Z8h9A18a82NbA=
+github.com/yudppp/throttle v1.0.4 h1:n3dG5m/3PEZ03znkgMS3LaoLjJV6Oy+uPMqj+HwHesw=
+github.com/yudppp/throttle v1.0.4/go.mod h1:pDK8agvkakfVmc0TWTupeQSY1a4VEpM1TNoDwky7Jlo=
